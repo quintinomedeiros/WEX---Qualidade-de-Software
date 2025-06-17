@@ -1,5 +1,3 @@
-# WEX - Qualidade de Software
-
 <p align="center">
 <a href="https://dio.me/">
     <img 
@@ -12,6 +10,8 @@
     alt="🔴 LIVE CODE">
 </a>
 </p>
+
+# WEX - Qualidade de Software
 
 Repositório criado para o curso **WEX - End to End Engineering - Qualidade de Software**
 
